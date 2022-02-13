@@ -15,7 +15,7 @@ https://github.com
 
 https://archive.org
 
-https://greenteapress.com/wp/green tea press
+https://greenteapress.com/wp/
 
 http://www.literateprogramming.com/cweb_download.html (for the cweb manual)
 
@@ -29,4 +29,4 @@ allitebooks.whatever, it doesn't exist anymore
 
 pdfdrive.fuckit, you know the one
 
-the books in the repo cover the topics that are written on the fucking directories name so it's self documenting in that regard, and I'm too lazy to list them here
+the books in this repo cover the topics that are written on the fucking directories name so it's self documenting in that regard, and I'm too lazy to list them here
