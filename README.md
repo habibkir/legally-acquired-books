@@ -1,5 +1,5 @@
 # legally-acquired-books
-The websites I downloaded this from had nowhere near enough porn ads to be considered illegal
+The websites I downloaded these from had nowhere near enough porn ads to be considered illegal
 
 __WARNING, THIS REPOSITORY MIGHT CONTAIN *ITALIAN*__
 
